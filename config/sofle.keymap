@@ -30,7 +30,7 @@
  * |------+------+------+------+------+------| Vol/Mt|       |PgU/PgD|------+------+------+------+------+------|
  * |LShift|   Z  |   X  |   C  |   V  |   B  |-------|       |-------|   N  |   M  |   ,  |   .  |   /  |LShift|
  * `-----------------------------------------/       /        \      \-----------------------------------------'
- *            |      | WIN  |  ALT | LOWER| / Space /          \Enter \  |RAISE |R-ALT | WIN  |      |
+ *            |      | WIN  |  ALT | LOWER| / Space /          \Enter \  |RAISE |R-ALT | WIN  | RCTR |
  *            |      |      |      |      |/       /            \      \ |      |      |      |      |
  *            `----------------------------------'               '------''---------------------------'
  */
@@ -39,7 +39,7 @@
 &lt 4 TAB &kp Q  &kp W    &kp E    &kp R     &kp T                          &kp Y      &kp U     &kp I     &kp O    &kp P    &kp BSPC
 &kp LCTRL &kp A  &kp S    &kp D    &kp F     &kp G                          &kp H      &kp J     &kp K     &kp L    &kp SEMI &kp SQT
 &kp LSHFT &kp Z  &kp X    &kp C    &kp V     &kp B  &kp C_MUTE    &none     &kp N      &kp M     &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
-                 &none    &kp LGUI &kp LALT  &mo 2  &kp SPACE     &kp RET   &mo 3      &kp RALT  &kp RGUI  &none
+                 &none    &kp LGUI &kp LALT  &mo 2  &kp SPACE     &kp RET   &mo 3      &kp RALT  &kp RGUI  &kp RCTRL
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
@@ -56,7 +56,7 @@
  * |------+------+------+------+------+------| Vol/Mt|       |PgU/PgD|------+------+------+------+------+------|
  * |LShift|   Z  |   X  |   C  |   V  |   B  |-------|       |-------|   N  |   M  |   ,  |   .  |   /  |LShift|
  * `-----------------------------------------/       /        \      \-----------------------------------------'
- *            |      | ALT  |  MAC | LOWER| / Space /          \Enter \  |RAISE |  MAC | ALT  |      |
+ *            |      | ALT  |  MAC | LOWER| / Space /          \Enter \  |RAISE |  MAC | ALT  | RCTR |
  *            |      |      |      |      |/       /            \      \ |      |      |      |      |
  *            `----------------------------------'               '------''---------------------------'
  */
@@ -65,7 +65,7 @@
 &lt 4 TAB &kp Q  &kp W    &kp E    &kp R     &kp T                          &kp Y    &kp U     &kp I     &kp O    &kp P    &kp BSPC
 &kp LCTRL &kp A  &kp S    &kp D    &kp F     &kp G                          &kp H    &kp J     &kp K     &kp L    &kp SEMI &kp SQT
 &kp LSHFT &kp Z  &kp X    &kp C    &kp V     &kp B  &kp C_MUTE    &none     &kp N    &kp M     &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
-                 &none    &kp LALT &kp LGUI  &mo 2  &kp SPACE     &kp RET   &mo 3    &kp RGUI  &kp RALT  &none
+                 &none    &kp LALT &kp LGUI  &mo 2  &kp SPACE     &kp RET   &mo 3    &kp RGUI  &kp RALT  &kp RCTRL
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
