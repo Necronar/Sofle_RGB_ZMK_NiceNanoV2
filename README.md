@@ -2,10 +2,6 @@
 
 72 LED Sofle RGB using ZMK 3.5
 
-![20230421_005150](https://user-images.githubusercontent.com/103195644/233544056-fd9f0372-fd23-49db-a1d4-80f3d91f2b13.jpg)
-
-![keyboard-layout (1)](https://github.com/Preacher325/Sofle_RGB_ZMK/assets/103195644/da32258f-aede-4ab4-9a9b-e10e400d24c1)
-
 Shields: Sofle RGB v2.1 PCB
 
 Boards: nice!nano v2.0
