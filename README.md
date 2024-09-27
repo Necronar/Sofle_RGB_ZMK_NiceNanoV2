@@ -1,31 +1,29 @@
-# Sofle_RGB_ZMK
+# Sofle_ZMK
 
-72 LED Sofle RGB using ZMK 3.5
+72 LED Sofle using ZMK
 
 Shields: Sofle RGB v2.1 PCB
 
 Boards: nice!nano v2.0
 
-Sockets: Jameco Valuepro 6100-1X14-R Single-in-Line Strip Socket, 0.100" Pitch, 14 Pin, 0.160" Lead Length
+Sockets:
 
-Batteries: 3.7V 850mAh LiPo
+Batteries:
 
-OLED: 128X32 OLED Screen
+OLED:
 
-Switches: Gateron Brown
+Switches:
 
-Encoders: AlpsAlpine EC11N1524402 
+Encoders:
 
-LEDS: SK6812MINI
+Switches:
 
-Switches: Gikfun Micro Slide Switch Toggle Switch
+Case:
 
-Case: Sofle RGB Analyst Case
+Standoffs:
 
-Standoffs: 11MM
+Pads:
 
-Pads: 5mm
+Keycaps:
 
-Keycaps: Artifact Bloom Series Keycap Set: Glow
-
-Knobs: Glorious Rotary Knobs
+Knobs:
