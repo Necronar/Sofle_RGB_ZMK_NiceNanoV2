@@ -6,24 +6,22 @@ Shields: Sofle RGB v2.1 PCB
 
 Boards: nice!nano v2.0
 
-Sockets:
+Sockets: Mill-Max 64 POS LOW PRO .1"
 
-Batteries:
+Batteries: Lithium Ion Battery 1000mAh 3.7V
 
-OLED:
+OLED: Nice!View
 
-Switches:
+Switches: Zeal Zilent V2 (Silent Tactile) - 67g & 78g
 
-Encoders:
+Encoders: Rotary Encoder Push Button Switch - 6mm Shaft
 
-Switches:
+Case: Custom - 3D Printed 
 
-Case:
+Standoffs: M2X15 4mm Knurled Standoffs - Black
 
-Standoffs:
+Pads: Tenting Feet
 
-Pads:
+Keycaps: ePBT Creative Studio Keycaps (Base Alpha / PS Nomad/ AI Nomad / Neutral Nomad)
 
-Keycaps:
-
-Knobs:
+Knobs: mxuteuk 4pcs Black Guitar Knobs Aluminum - Black
