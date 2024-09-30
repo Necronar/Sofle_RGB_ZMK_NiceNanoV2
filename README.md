@@ -1,6 +1,6 @@
 # Sofle_ZMK
 
-72 LED Sofle using ZMK
+Sofle using ZMK
 
 Shields: Sofle RGB v2.1 PCB
 
